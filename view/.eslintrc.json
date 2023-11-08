@@ -1,0 +1,23 @@
+{
+    "root": false,
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es2021": true
+    },
+    "extends": "airbnb-base",
+    "overrides": [
+    ],
+    "parserOptions": {
+        "ecmaVersion": "latest"
+    },
+    "rules": {
+        "indent": "off",
+        "react/jsx-indent": "off",
+        "react/jsx-indent-props": "off",
+        "linebreak-style": "off",
+        "semi": "off",
+        "no-unused-vars": "off",
+        "eol-last": "off"
+    }
+}
